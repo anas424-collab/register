@@ -1,10 +1,8 @@
 {
   "owner": {
-    "username": "anas424-collab",
-    "email": "captainmrana1@gmail.com"
+    "username": "anas424-collab"
   },
-  "record": {
+  "records": {
     "CNAME": "anas424-collab.github.io"
-  },
-  "subdomain": "theonevault"
+  }
 }
